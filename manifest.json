@@ -1,0 +1,43 @@
+{
+    "name": "Students",
+    "short_name": "Students",
+    "start_url": "/Students.html",  
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#222222",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-72.png?alt=media&token=5fc4a881-776a-4cd7-af38-bd963043c302",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-96.png?alt=media&token=5628c599-89c6-4a7b-a20c-b0d5ec6bb9de",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-128.png?alt=media&token=7f3ddd4d-c39e-404a-a2c6-74a255311801",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-144.png?alt=media&token=af25c282-948c-48f0-a3a9-35b718e07be0",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-152.png?alt=media&token=533e6186-ad9b-4993-93c3-5bf5e5994cae",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-192.png?alt=media&token=99c9418e-9388-446e-a717-aaa73435c49b",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-256.png?alt=media&token=4855c9ac-f0dd-439d-af54-156ffaffd3bf",
+        "type": "image/png", "sizes": "256x256"
+      },
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/students-14e9c.appspot.com/o/images%2Ficons%2FIcon-512.png?alt=media&token=6cf074a8-bfd8-4907-b4f6-e01127ec07a1",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
