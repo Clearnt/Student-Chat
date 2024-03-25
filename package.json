@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "handlebars": "^4.7.7",
+    "http": "^0.0.1-security",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "pug": "^3.0.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "github:LearnBoost/socket.io-client"
+  },
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Ivan Zhuk",
+  "license": "ISC",
+  "devDependencies": {}
+}
